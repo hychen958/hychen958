@@ -29,3 +29,5 @@ I'm a full-stack developer passionate about building scalable web applications a
 [LinkedIn](https://www.linkedin.com/in/devhankchen/) | 
 
 ![Hank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HankChen&show_icons=true&theme=radical)
+
+![Animated GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
