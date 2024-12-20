@@ -13,18 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[Portfolio](https://janedoe.dev)
 -->
 # 👋 Hi, I'm Hank Chen!
 
 I'm a full-stack developer passionate about building scalable web applications and learning new technologies.
 
+- 🖥️ I am a passionate Full-stack Developer
+- 🎨 UI/UX Designer
+- 🧪 I enjoy learning new technologies
+- 
 ### 🚀 Skills
 
-- 🖥️ Full-stack Development (React, Node.js)
-- 🎨 UI/UX Design
-- 🧪 Testing (Jest, Cypress)
+
 
 🔗 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/janedoe) | [Portfolio](https://janedoe.dev)
+[LinkedIn](https://www.linkedin.com/in/devhankchen/) | 
 
-![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
+![Hank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
