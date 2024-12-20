@@ -61,6 +61,7 @@ I'm a full-stack developer passionate about building scalable web applications a
 ![Microsoft Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+----------------------------------------------------------------------------------------------------------------------------------------------
 🔗 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/devhankchen/) | 
 
