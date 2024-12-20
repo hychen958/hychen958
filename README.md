@@ -22,8 +22,6 @@ I'm a full-stack developer passionate about building scalable web applications a
 - 🧪 I enjoy learning new technologies
 
 ### 🚀 Skills
-### 🚀 Skills
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
