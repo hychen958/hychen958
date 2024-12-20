@@ -1,5 +1,3 @@
-## 
-
 <!--
 **hychen958/hychen958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ I'm a full-stack developer passionate about building scalable web applications a
 - 🖥️ I am a passionate Full-stack Developer
 - 🎨 UI/UX Designer
 - 🧪 I enjoy learning new technologies
-- 
+
 ### 🚀 Skills
 
 
@@ -30,4 +28,4 @@ I'm a full-stack developer passionate about building scalable web applications a
 🔗 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/devhankchen/) | 
 
-![Hank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
+![Hank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HankChen&show_icons=true&theme=radical)
