@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Jane Doe!
+
+I'm a full-stack developer passionate about building scalable web applications and learning new technologies.
+
+### 🚀 Skills
+
+- 🖥️ Full-stack Development (React, Node.js)
+- 🎨 UI/UX Design
+- 🧪 Testing (Jest, Cypress)
+
+🔗 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/janedoe) | [Portfolio](https://janedoe.dev)
+
+![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
